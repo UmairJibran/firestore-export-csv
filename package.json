@@ -1,0 +1,15 @@
+{
+  "name": "firestore-export-csv",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "author": {
+    "name": "Umair Jibran",
+    "email": "me@umairjibran.com",
+    "url": "https://umairjibran.com"
+  },
+  "dependencies": {
+    "firebase-admin": "^12.5.0",
+    "json-2-csv": "^5.5.5"
+  }
+}
